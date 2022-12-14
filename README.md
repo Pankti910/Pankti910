@@ -35,7 +35,6 @@
 <image  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankti910&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
 
 </div>
-<image src="https://activity-graph.herokuapp.com/graph?username=Pankti910&theme=react-dark&bg_color=20232a&hide_border=true"/>
 
 
 ## 🏆 GitHub Trophies
