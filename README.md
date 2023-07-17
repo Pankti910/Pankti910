@@ -1,7 +1,5 @@
 # Hi 👋, I'm Pankti Shah:
 ![snake gif](https://github.com/Pankti910/Pankti910/output/github-contribution-grid-snake.gif)
-
-<br>
 :handshake: I'm looking for collaborating on open-source
 <br>
 :seedling:	I'm currently learning Flutter
