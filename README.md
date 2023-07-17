@@ -1,13 +1,12 @@
 # Hi 👋, I'm Pankti Shah:
 ![snake gif](https://github.com/Pankti910/Pankti910/output/github-contribution-grid-snake.gif)
-<image align="right" width="150" height="150" src="https://user-images.githubusercontent.com/47489894/190889614-1fc3a4da-58f6-4e5f-88ef-96e584af8dff.png"/>
-:rocket:I'm currently working at DhiWise
+
 <br>
-:handshake:I'm looking for collaborating on open-source
+:handshake: I'm looking for collaborating on open-source
 <br>
 :seedling:	I'm currently learning Flutter
 <br>
-:envelope:Ask me about NodeJs,MongoDB,SQL
+:envelope: Ask me about NodeJs, MongoDB,SQL
 
 
 ## 🌐 Let's Get Connected:
