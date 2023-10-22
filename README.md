@@ -1,5 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Pankti Shah </h1>
-<h3 align="center">Software Engineer from India</h3>
+<div><h2>Hi 👋, I'm Pankti Shah</h2>  <div>
+<div><h3>Software Engineer from India</h3></div>
 
 - ✨ Turning caffeine into code and ideas into innovation
 
@@ -32,7 +32,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@panktishah910/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@panktishah910/0" height="100" width="300" alt="Recent Article 0"> 
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Pankti910&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankti910&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
